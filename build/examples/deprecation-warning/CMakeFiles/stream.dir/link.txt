@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/stream.dir/link.d "CMakeFiles/stream.dir/deprecation-warning.cpp.o" -o ../../bin/stream

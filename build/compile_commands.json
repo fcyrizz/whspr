@@ -1,0 +1,170 @@
+[
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -pthread -o CMakeFiles/ggml-base.dir/ggml.c.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml.c",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -pthread -o CMakeFiles/ggml-base.dir/ggml-alloc.c.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-alloc.c",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-alloc.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -pthread -o CMakeFiles/ggml-base.dir/ggml-backend.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-backend.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-backend.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -pthread -o CMakeFiles/ggml-base.dir/ggml-opt.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-opt.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-opt.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -pthread -o CMakeFiles/ggml-base.dir/ggml-threading.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-threading.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-threading.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -pthread -o CMakeFiles/ggml-base.dir/ggml-quants.c.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-quants.c",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -pthread -o CMakeFiles/ggml-base.dir/gguf.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/gguf.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/gguf.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-aarch64.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-aarch64.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-hbm.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-hbm.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wdouble-promotion -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-quants.c.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.c",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.c",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-quants.c.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-traits.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-traits.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/.. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/. -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -mcpu=native+dotprod+noi8mm+nosve -fopenmp=libomp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "output": "ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/ggml/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wunreachable-code-break -Wunreachable-code-return -Wmissing-prototypes -Wextra-semi -o CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-backend-reg.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/ggml/src/ggml-backend-reg.cpp",
+  "output": "ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/src",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DWHISPER_BUILD -DWHISPER_SHARED -Dwhisper_EXPORTS -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -fPIC -o CMakeFiles/whisper.dir/whisper.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/src/whisper.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/src/whisper.cpp",
+  "output": "src/CMakeFiles/whisper.dir/whisper.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/data/data/com.termux/files/home/whisper.cpp/examples -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -fPIC -o CMakeFiles/common.dir/common.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/common.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/common.cpp",
+  "output": "examples/CMakeFiles/common.dir/common.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/data/data/com.termux/files/home/whisper.cpp/examples -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -fPIC -o CMakeFiles/common.dir/common-ggml.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/common-ggml.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/common-ggml.cpp",
+  "output": "examples/CMakeFiles/common.dir/common-ggml.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/data/data/com.termux/files/home/whisper.cpp/examples -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -fPIC -o CMakeFiles/common.dir/grammar-parser.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/grammar-parser.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/grammar-parser.cpp",
+  "output": "examples/CMakeFiles/common.dir/grammar-parser.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/cli",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/data/data/com.termux/files/home/whisper.cpp/examples -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -o CMakeFiles/whisper-cli.dir/cli.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/cli/cli.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/cli/cli.cpp",
+  "output": "examples/cli/CMakeFiles/whisper-cli.dir/cli.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/bench",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/data/data/com.termux/files/home/whisper.cpp/examples -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -o CMakeFiles/whisper-bench.dir/bench.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/bench/bench.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/bench/bench.cpp",
+  "output": "examples/bench/CMakeFiles/whisper-bench.dir/bench.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/server",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/data/data/com.termux/files/home/whisper.cpp/examples -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -o CMakeFiles/whisper-server.dir/server.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/server/server.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/server/server.cpp",
+  "output": "examples/server/CMakeFiles/whisper-server.dir/server.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/quantize",
+  "command": "/data/data/com.termux/files/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -I/data/data/com.termux/files/home/whisper.cpp/examples -I/data/data/com.termux/files/home/whisper.cpp/src/. -I/data/data/com.termux/files/home/whisper.cpp/src/../include -I/data/data/com.termux/files/home/whisper.cpp/ggml/src/../include -O2 -g -DNDEBUG -o CMakeFiles/quantize.dir/quantize.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/quantize/quantize.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/quantize/quantize.cpp",
+  "output": "examples/quantize/CMakeFiles/quantize.dir/quantize.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/data/data/com.termux/files/usr/bin/c++  -I/data/data/com.termux/files/home/whisper.cpp/examples -O2 -g -DNDEBUG -o CMakeFiles/main.dir/deprecation-warning.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/main.dir/deprecation-warning.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/data/data/com.termux/files/usr/bin/c++  -I/data/data/com.termux/files/home/whisper.cpp/examples -O2 -g -DNDEBUG -o CMakeFiles/bench.dir/deprecation-warning.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/bench.dir/deprecation-warning.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/data/data/com.termux/files/usr/bin/c++  -I/data/data/com.termux/files/home/whisper.cpp/examples -O2 -g -DNDEBUG -o CMakeFiles/stream.dir/deprecation-warning.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/stream.dir/deprecation-warning.cpp.o"
+},
+{
+  "directory": "/data/data/com.termux/files/home/whisper.cpp/build/examples/deprecation-warning",
+  "command": "/data/data/com.termux/files/usr/bin/c++  -I/data/data/com.termux/files/home/whisper.cpp/examples -O2 -g -DNDEBUG -o CMakeFiles/command.dir/deprecation-warning.cpp.o -c /data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "file": "/data/data/com.termux/files/home/whisper.cpp/examples/deprecation-warning/deprecation-warning.cpp",
+  "output": "examples/deprecation-warning/CMakeFiles/command.dir/deprecation-warning.cpp.o"
+}
+]
